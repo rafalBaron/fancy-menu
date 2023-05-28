@@ -4,4 +4,4 @@ Of course it's simple and only HTML and CSS.
 Should have done it better with some JS.
 
 
-![](https://github.com/fancy-menu/menu.gif)
+![](https://github.com/rafalBaron/fancy-menu/blob/main/menu.gif)
